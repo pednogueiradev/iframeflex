@@ -1,0 +1,8 @@
+{
+  "name": "iframeflex",
+  "version": "1.0.0",
+  "description": "function que adapta o tamanho o iframe de acordo com o postmessage pai.",
+  "main": "index.js",
+  "author": "Pedro Nogueira",
+  "license": "MIT"
+}

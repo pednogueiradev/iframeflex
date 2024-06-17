@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: black;
+  margin: 0;
+  padding: 0;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1rem;
+}
+
+main {
+  padding: 1rem;
+}
+
+iframe {
+  width: 100%;
+  margin: 1rem 0;
+}
+
+.iframeContainer {
+  width: 100%;
+  background: rgb(182, 181, 181);
+}
+
+.iframeContainer button {
+  padding: 1rem;
+  margin-top: 1rem;
+  border-radius: 1rem;
+  color: brown;
+}
+
+p {
+  font-size: 24px;
+  margin: 2rem 0;
+}
